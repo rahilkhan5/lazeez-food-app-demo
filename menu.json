@@ -1,0 +1,310 @@
+[
+  {
+    "id": "flame",
+    "name": "Flame & Grill",
+    "tag": "BBQ · Grills",
+    "promo": "Free delivery",
+    "rating": "4.7",
+    "mins": 37,
+    "deliveryFee": 0,
+    "cover": "img/53110.jpg",
+    "dishes": [
+      {
+        "id": "53110",
+        "name": "Sticky Chicken",
+        "img": "img/53110.jpg",
+        "price": 1750,
+        "rating": "4.7",
+        "kcal": 357
+      },
+      {
+        "id": "53345",
+        "name": "Jamaican Curry Chicken Recipe",
+        "img": "img/53345.jpg",
+        "price": 1000,
+        "rating": "4.6",
+        "kcal": 569
+      },
+      {
+        "id": "53204",
+        "name": "Red curry chicken kebabs",
+        "img": "img/53204.jpg",
+        "price": 1650,
+        "rating": "4.3",
+        "kcal": 686
+      },
+      {
+        "id": "53376",
+        "name": "Sweet and Sour Chicken",
+        "img": "img/53376.jpg",
+        "price": 550,
+        "rating": "4.2",
+        "kcal": 520
+      },
+      {
+        "id": "52951",
+        "name": "General Tsos Chicken",
+        "img": "img/52951.jpg",
+        "price": 1400,
+        "rating": "4.8",
+        "kcal": 608
+      },
+      {
+        "id": "52850",
+        "name": "Chicken Couscous",
+        "img": "img/52850.jpg",
+        "price": 750,
+        "rating": "4.6",
+        "kcal": 491
+      },
+      {
+        "id": "53367",
+        "name": "Chicken Fried Rice",
+        "img": "img/53367.jpg",
+        "price": 750,
+        "rating": "4.8",
+        "kcal": 532
+      }
+    ]
+  },
+  {
+    "id": "ocean",
+    "name": "Ocean Catch",
+    "tag": "Seafood",
+    "promo": "20% off",
+    "rating": "4.5",
+    "mins": 38,
+    "deliveryFee": 120,
+    "cover": "img/53200.jpg",
+    "dishes": [
+      {
+        "id": "53200",
+        "name": "Prawn stir-fry",
+        "img": "img/53200.jpg",
+        "price": 700,
+        "rating": "4.8",
+        "kcal": 743
+      },
+      {
+        "id": "53512",
+        "name": "Conch Stew",
+        "img": "img/53512.jpg",
+        "price": 950,
+        "rating": "4.7",
+        "kcal": 353
+      },
+      {
+        "id": "52887",
+        "name": "Kedgeree",
+        "img": "img/52887.jpg",
+        "price": 1350,
+        "rating": "4.4",
+        "kcal": 379
+      },
+      {
+        "id": "53151",
+        "name": "Paella",
+        "img": "img/53151.jpg",
+        "price": 850,
+        "rating": "4.8",
+        "kcal": 803
+      },
+      {
+        "id": "53233",
+        "name": "Salt & pepper squid",
+        "img": "img/53233.jpg",
+        "price": 700,
+        "rating": "4.5",
+        "kcal": 589
+      },
+      {
+        "id": "53510",
+        "name": "Cayman-Style Lobster",
+        "img": "img/53510.jpg",
+        "price": 750,
+        "rating": "4.4",
+        "kcal": 802
+      }
+    ]
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta Republic",
+    "tag": "Italian · Pasta",
+    "promo": null,
+    "rating": "4.9",
+    "mins": 21,
+    "deliveryFee": 90,
+    "cover": "img/52987.jpg",
+    "dishes": [
+      {
+        "id": "52987",
+        "name": "Lasagna Sandwiches",
+        "img": "img/52987.jpg",
+        "price": 1400,
+        "rating": "4.9",
+        "kcal": 531
+      },
+      {
+        "id": "52835",
+        "name": "Fettucine alfredo",
+        "img": "img/52835.jpg",
+        "price": 1200,
+        "rating": "4.7",
+        "kcal": 512
+      },
+      {
+        "id": "53093",
+        "name": "Syrian Spaghetti",
+        "img": "img/53093.jpg",
+        "price": 600,
+        "rating": "4.4",
+        "kcal": 781
+      },
+      {
+        "id": "52838",
+        "name": "Venetian Duck Ragu",
+        "img": "img/52838.jpg",
+        "price": 1600,
+        "rating": "4.4",
+        "kcal": 816
+      },
+      {
+        "id": "52837",
+        "name": "Pilchard puttanesca",
+        "img": "img/52837.jpg",
+        "price": 550,
+        "rating": "4.7",
+        "kcal": 760
+      },
+      {
+        "id": "53461",
+        "name": "Macaroni Pie",
+        "img": "img/53461.jpg",
+        "price": 950,
+        "rating": "4.3",
+        "kcal": 285
+      }
+    ]
+  },
+  {
+    "id": "green",
+    "name": "Green Bowl",
+    "tag": "Healthy · Veg",
+    "promo": "Free delivery",
+    "rating": "4.6",
+    "mins": 26,
+    "deliveryFee": 0,
+    "cover": "img/53160.jpg",
+    "dishes": [
+      {
+        "id": "53160",
+        "name": "Pisto con huevos",
+        "img": "img/53160.jpg",
+        "price": 1050,
+        "rating": "4.5",
+        "kcal": 428
+      },
+      {
+        "id": "53491",
+        "name": "Shopska Salad",
+        "img": "img/53491.jpg",
+        "price": 950,
+        "rating": "4.8",
+        "kcal": 798
+      },
+      {
+        "id": "53113",
+        "name": "Sukuma Wiki",
+        "img": "img/53113.jpg",
+        "price": 1000,
+        "rating": "4.8",
+        "kcal": 456
+      },
+      {
+        "id": "52911",
+        "name": "Summer Pistou",
+        "img": "img/52911.jpg",
+        "price": 600,
+        "rating": "4.8",
+        "kcal": 319
+      },
+      {
+        "id": "53172",
+        "name": "Patatas bravas",
+        "img": "img/53172.jpg",
+        "price": 1000,
+        "rating": "4.2",
+        "kcal": 777
+      },
+      {
+        "id": "53266",
+        "name": "Falafel",
+        "img": "img/53266.jpg",
+        "price": 750,
+        "rating": "4.7",
+        "kcal": 702
+      }
+    ]
+  },
+  {
+    "id": "sweet",
+    "name": "Sweet Affair",
+    "tag": "Desserts · Bakes",
+    "promo": "Buy 1 Get 1",
+    "rating": "4.9",
+    "mins": 24,
+    "deliveryFee": 70,
+    "cover": "img/52768.jpg",
+    "dishes": [
+      {
+        "id": "52768",
+        "name": "Apple Frangipan Tart",
+        "img": "img/52768.jpg",
+        "price": 900,
+        "rating": "4.7",
+        "kcal": 318
+      },
+      {
+        "id": "53462",
+        "name": "Cinnamon Roll Cookies",
+        "img": "img/53462.jpg",
+        "price": 1100,
+        "rating": "4.6",
+        "kcal": 802
+      },
+      {
+        "id": "52961",
+        "name": "Budino Di Ricotta",
+        "img": "img/52961.jpg",
+        "price": 1300,
+        "rating": "4.4",
+        "kcal": 768
+      },
+      {
+        "id": "53360",
+        "name": "Caribbean Tamarind balls",
+        "img": "img/53360.jpg",
+        "price": 1750,
+        "rating": "4.5",
+        "kcal": 613
+      },
+      {
+        "id": "52860",
+        "name": "Chocolate Raspberry Brownies",
+        "img": "img/52860.jpg",
+        "price": 850,
+        "rating": "4.7",
+        "kcal": 417
+      },
+      {
+        "id": "53149",
+        "name": "Ensaimada",
+        "img": "img/53149.jpg",
+        "price": 1300,
+        "rating": "4.2",
+        "kcal": 476
+      }
+    ]
+  }
+]
